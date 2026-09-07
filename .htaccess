@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Redirect old WordPress page URLs to the new HTML pages
+Redirect 301 /about/ /about.html
+Redirect 301 /portfolio/ /portfolio.html
+Redirect 301 /contact/ /contact.html
